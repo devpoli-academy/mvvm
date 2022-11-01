@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; configuration.title = "Gerar"; ObjectID = "ltu-Gv-I7Y"; */
+"ltu-Gv-I7Y.configuration.title" = "Gerar";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ltu-Gv-I7Y"; */
+"ltu-Gv-I7Y.normalTitle" = "Gerar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tpS-Rr-wD1"; */
+"tpS-Rr-wD1.text" = "Toque para gerar";
